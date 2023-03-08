@@ -17,7 +17,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsaenzsucre&show_icons=true&theme=transparent&locale=en" alt="paulsaenzsucre" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulsaenzsucre&theme=dark" alt="paulsaenzsucre" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulsaenzsucre&theme=transparent" alt="paulsaenzsucre" /></p>
 
 
 
