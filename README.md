@@ -15,7 +15,7 @@
 
 [![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulsaenzsucre&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsaenzsucre&show_icons=true&theme=transparent&locale=en" alt="paulsaenzsucre" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsaenzsucre&langs_count=10&show_icons=true&theme=transparent&locale=en" alt="paulsaenzsucre" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulsaenzsucre&theme=transparent" alt="paulsaenzsucre" /></p>
 
