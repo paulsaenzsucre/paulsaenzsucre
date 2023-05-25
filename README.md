@@ -1,3 +1,5 @@
+<img align="center" src="./public/banner.png" alt="banner">
+
 <h1 align="center">Hi 👋, I'm Paul Sáenz Sucre.</h1>
 <h3 align="center">A passionate full stack and desktop developer from Perú.</h3>
 
