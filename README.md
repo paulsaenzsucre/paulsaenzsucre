@@ -38,7 +38,34 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/paulsaenzsucre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paulsaenzsucre" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/paulsaenzsucre/" target="blank">
+    <img align="center" src="./public/linked-in.svg" alt="linked in" height="auto" width="40" />
+  </a>
+  <a href="https://twitter.com/paulsaenzsucre" target="blank"><img align="center" src="./public/twitter.svg" alt="twitter" height="auto" width="40" /></a>
+  <a href="https://dev.to/paulsaenzsucre" target="blank">
+    <img align="center" src="./public/devto.svg" alt="dev" height="auto" width="40" />
+  </a>
+  <a href="https://medium.com/@paulsaenzsucre" target="blank">
+    <img align="center" src="./public/medium.svg" alt="medium" height="auto" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/4383086/paulsaenzsucre" target="blank">
+    <img align="center" src="./public/stack-overflow.svg" alt="stack overflow" height="auto" width="40" />
+  </a>
+  <a href="https://www.reddit.com/user/paulsaenzsucre" target="blank">
+    <img align="center" src="./public/reddit.svg" alt="reddit" height="auto" width="40" />
+  </a>
+  <a href="https://codepen.io/paulsaenzsucre" target="blank">
+    <img align="center" src="./public/codepen.svg" alt="paulsaenzsucre" height="auto" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/paulsaenzsucre" target="blank">
+    <img align="center" src="./public/hackerrank.svg" alt="codeforces" height="auto" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/paulsaenzsucre" target="blank">
+    <img align="center" src="./public/codeforces.svg" alt="codeforces" height="auto" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@paulsaenzsucre" target="blank">
+    <img align="center" src="./public/youtube.svg" alt="youtube" height="auto" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
