@@ -186,16 +186,16 @@
   </a>
 </p>
 
-[![Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulsaenzsucre&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsaenzsucre&langs_count=10&count_private=true&show_icons=true&theme=transparent&locale=en" alt="paulsaenzsucre" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulsaenzsucre&theme=transparent" alt="paulsaenzsucre" /></p>
-
-
-
-
-<!---
-paulsaenzsucre/paulsaenzsucre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details>
+  <summary>
+    <h3>Stats</h3>
+  </summary>
+  <p>
+    <img align="center" src="https://metrics.lecoq.io/paulsaenzsucre?template=classic&activity=1&code=1&gists=1&chess=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&chess=false&chess.user=elalfildecolor&chess.platform=lichess.org&chess.animation=%7B%0A%20%20%22size%22%3A%2040%2C%0A%20%20%22delay%22%3A%203%2C%0A%20%20%22duration%22%3A%200.6%0A%7D%0A&config.timezone=America%2FBogota" alt="paulsaenzsucre" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsaenzsucre&langs_count=10&count_private=true&show_icons=true&theme=transparent&locale=en&layout=compact" alt="paulsaenzsucre" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulsaenzsucre&count_private=true&show_icons=true&theme=transparent" alt="paulsaenzsucre" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulsaenzsucre&theme=transparent" alt="paulsaenzsucre" />
+  </p>
+</details>
