@@ -403,7 +403,7 @@ Change Card Layout</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 30 Jun 2023, 09:15:53
+                            On 30 Jun 2023, 09:18:17
                         </div>
                     </section>
                 </div>
@@ -2837,7 +2837,7 @@ Change Card Layout</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jul 2023, 13:17:59 (timezone America/Bogota) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Jul 2023, 14:12:01 (timezone America/Bogota) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
