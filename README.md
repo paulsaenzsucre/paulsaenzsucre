@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <img align="center" src="./public/banner.png" alt="banner">
 
 <h1 align="center">Hi 👋, I'm Paul Sáenz Sucre.</h1>
@@ -7,7 +8,7 @@
   More about me
   </summary>
   <p>
-  I am a full-stack web developer and a self-taught desktop developer. Currently, I am in the process of refactoring my old desktop application. The application enables users to sell food in a restaurant through a web interface. I utilize standard languages such as HTML5, CSS3, and JavaScript, along with React and Redux libraries for the front-end. For the backend, I employ Ruby on Rails and PostgreSQL.
+  I am a certified full-stack web developer and a self-taught desktop developer. Currently, I am in the process of refactoring my old desktop application. The application enables users to sell food in a restaurant through a web interface. I utilize standard languages such as HTML5, CSS3, and JavaScript, along with React and Redux libraries for the front-end. For the backend, I employ Ruby on Rails and PostgreSQL.
   </p>
   <p>
   I have had a passion for computers since my childhood. My father introduced me to coding using a programming language called BASIC. As I grew older, I took it upon myself to learn Assembly language and develop an application called DSKPATCH, which served as a hard disk sector data editor. During this time, I dedicated additional hours after school to teach myself various programming languages, such as Visual Basic 6, Standard Query Language (SQL), PASCAL, JAVA, and C#, as well as object-oriented programming and other programming paradigms.
@@ -197,3 +198,74 @@
     <img align="center" src="github-metrics.svg" alt="paulsaenzsucre" />
   </p>
 </details>
+
+<hr />  
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/pss-logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/pss-logo-light.png">
+    <img width="64" height="64" alt="Paul Sáenz Sucre logo." src="https://www.paulsaenzsucre.dev/pss-assets/public/pss-logo-dark.png">
+  </picture>
+  <p><b>Copyright &copy; 2023 - Paul Sáenz Sucre</b></p>
+  <div>
+    <a href="https://www.paulsaenzsucre.dev" target="_blank" rel="noopener noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/pss-logo-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/pss-logo-light.png">
+        <img width="32" height="32" alt="Portfolio." src="https://www.paulsaenzsucre.dev/pss-assets/public/pss-logo-dark.png">
+      </picture>
+    </a>
+    <a href="mailto:paulsaenzsucre@outlook.com" target="_blank" rel="noopener noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/mail-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/mail-light.png">
+        <img width="32" height="32" alt="Mail me." src="https://www.paulsaenzsucre.dev/pss-assets/public/mail-dark.png">
+      </picture>
+    </a>
+    <a href="https://www.linkedin.com/in/paulsaenzsucre/" target="_blank" rel="noopener noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/linkedin-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/linkedin-light.png">
+        <img width="32" height="32" alt="Linkedin Profile." src="https://www.paulsaenzsucre.dev/pss-assets/public/linkedin-dark.png">
+      </picture>
+    </a>
+    <a href="https://twitter.com/paulsaenzsucre" target="_blank" rel="noopener noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/twitterx-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/twitterx-light.png">
+        <img width="32" height="32" alt="Linkedin Profile." src="https://www.paulsaenzsucre.dev/pss-assets/public/twitterx-dark.png">
+      </picture>
+    </a>
+    <a href="https://dev.to/paulsaenzsucre" target="_blank" rel="noopener noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/devto-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/devto-light.png">
+        <img width="32" height="32" alt="Devto Profile." src="https://www.paulsaenzsucre.dev/pss-assets/public/devto-dark.png">
+      </picture>
+    </a>
+    <a href="https://medium.com/@paulsaenzsucre" target="_blank" rel="noopener noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/medium-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/medium-light.png">
+        <img width="32" height="32" alt="Medium Profile." src="https://www.paulsaenzsucre.dev/pss-assets/public/medium-dark.png">
+      </picture>
+    </a>
+    <a href="https://stackoverflow.com/users/4383086/paulsaenzsucre" target="_blank" rel="noopener noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/stackoverflow-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/stackoverflow-light.png">
+        <img width="32" height="32" alt="Stackoverflow Profile." src="https://www.paulsaenzsucre.dev/pss-assets/public/stackoverflow-dark.png">
+      </picture>
+    </a>
+    <a href="https://www.youtube.com/@paulsaenzsucre" target="_blank" rel="noopener noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/youtube-dark.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/youtube-light.png">
+        <img width="32" height="32" alt="Youtube Profile." src="https://www.paulsaenzsucre.dev/pss-assets/public/youtube-dark.png">
+      </picture>
+    </a>
+  </div>
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
