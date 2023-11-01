@@ -207,7 +207,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://www.paulsaenzsucre.dev/pss-assets/public/pss-logo-light.png">
     <img width="64" height="64" alt="Paul Sáenz Sucre logo." src="https://www.paulsaenzsucre.dev/pss-assets/public/pss-logo-dark.png">
   </picture>
-  <p><b>Copyright &copy; 2023 - Paul Sáenz Sucre</b></p>
+  <p><b>Paul Sáenz Sucre</b></p>
   <div>
     <a href="https://www.paulsaenzsucre.dev" target="_blank" rel="noopener noreferrer">
       <picture>
