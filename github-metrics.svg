@@ -297,7 +297,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
                             </svg>
-                            elalfildecolor (1501 ELO)
+                            elalfildecolor (1478 ELO)
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -317,7 +317,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M4.243 4.757a3.757 3.757 0 115.851 3.119 6.006 6.006 0 013.9 5.339.75.75 0 01-.715.784H2.721a.75.75 0 01-.714-.784 6.006 6.006 0 013.9-5.34 3.753 3.753 0 01-1.664-3.118z"/>
                             </svg>
-                            ScepticalPascal (1481 ELO)
+                            specialistahk (1461 ELO)
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -539,8 +539,8 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-1">
-                        <div class="from" style="left: 80px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 80px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 160px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 160px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-1-from {
                     100% {
                       opacity: 1;
@@ -562,9 +562,9 @@
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 80px;
-                      top: 80px;
+                      background-color: #C5A076;
+                      left: 160px;
+                      top: 120px;
                     }
                   }
                   .chess-move-1 .to {
@@ -607,8 +607,8 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-3">
-                        <div class="from" style="left: 120px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 120px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 240px; top: 0px;">♞</div>
+                        <div class="to" style="left: 240px; top: 0px;">♞</div>
                         <style>@keyframes chess-move-3-from {
                     100% {
                       opacity: 1;
@@ -630,9 +630,9 @@
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 120px;
-                      top: 120px;
+                      background-color: #C5A076;
+                      left: 200px;
+                      top: 80px;
                     }
                   }
                   .chess-move-3 .to {
@@ -641,13 +641,13 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-4">
-                        <div class="from" style="left: 160px; top: 160px;">♙</div>
-                        <div class="to" style="left: 160px; top: 160px;">♙</div>
+                        <div class="from" style="left: 120px; top: 240px;">♙</div>
+                        <div class="to" style="left: 120px; top: 240px;">♙</div>
                         <style>@keyframes chess-move-4-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-4 .from {
@@ -664,9 +664,9 @@
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 120px;
+                      background-color: #ECDAB9;
+                      left: 120px;
+                      top: 200px;
                     }
                   }
                   .chess-move-4 .to {
@@ -675,8 +675,8 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-5">
-                        <div class="from" style="left: 80px; top: 0px;">♝</div>
-                        <div class="to" style="left: 80px; top: 0px;">♝</div>
+                        <div class="from" style="left: 120px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 120px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-5-from {
                     100% {
                       opacity: 1;
@@ -698,9 +698,9 @@
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 200px;
-                      top: 120px;
+                      background-color: #C5A076;
+                      left: 120px;
+                      top: 80px;
                     }
                   }
                   .chess-move-5 .to {
@@ -709,8 +709,8 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-6">
-                        <div class="from" style="left: 120px; top: 240px;">♙</div>
-                        <div class="to" style="left: 120px; top: 240px;">♙</div>
+                        <div class="from" style="left: 200px; top: 240px;">♙</div>
+                        <div class="to" style="left: 200px; top: 240px;">♙</div>
                         <style>@keyframes chess-move-6-from {
                     100% {
                       opacity: 1;
@@ -733,7 +733,7 @@
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 120px;
+                      left: 200px;
                       top: 160px;
                     }
                   }
@@ -743,13 +743,13 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-7">
-                        <div class="from" style="left: 80px; top: 80px;">♟︎</div>
-                        <div class="to" style="left: 80px; top: 80px;">♟︎</div>
+                        <div class="from" style="left: 200px; top: 0px;">♝</div>
+                        <div class="to" style="left: 200px; top: 0px;">♝</div>
                         <style>@keyframes chess-move-7-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-7 .from {
@@ -767,8 +767,8 @@
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 80px;
-                      top: 120px;
+                      left: 160px;
+                      top: 40px;
                     }
                   }
                   .chess-move-7 .to {
@@ -777,13 +777,13 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-8">
-                        <div class="from" style="left: 200px; top: 280px;">♗</div>
-                        <div class="to" style="left: 200px; top: 280px;">♗</div>
+                        <div class="from" style="left: 240px; top: 280px;">♘</div>
+                        <div class="to" style="left: 240px; top: 280px;">♘</div>
                         <style>@keyframes chess-move-8-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-8 .from {
@@ -801,8 +801,8 @@
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 40px;
-                      top: 120px;
+                      left: 200px;
+                      top: 200px;
                     }
                   }
                   .chess-move-8 .to {
@@ -811,13 +811,13 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-9">
-                        <div class="from" style="left: 40px; top: 0px;">♞</div>
-                        <div class="to" style="left: 40px; top: 0px;">♞</div>
+                        <div class="from" style="left: 80px; top: 0px;">♝</div>
+                        <div class="to" style="left: 80px; top: 0px;">♝</div>
                         <style>@keyframes chess-move-9-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-9 .from {
@@ -835,8 +835,8 @@
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 80px;
-                      top: 80px;
+                      left: 240px;
+                      top: 160px;
                     }
                   }
                   .chess-move-9 .to {
@@ -845,8 +845,8 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-10">
-                        <div class="from" style="left: 120px; top: 280px;">♕</div>
-                        <div class="to" style="left: 120px; top: 280px;">♕</div>
+                        <div class="from" style="left: 200px; top: 280px;">♗</div>
+                        <div class="to" style="left: 200px; top: 280px;">♗</div>
                         <style>@keyframes chess-move-10-from {
                     100% {
                       opacity: 1;
@@ -869,8 +869,8 @@
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 200px;
-                      top: 200px;
+                      left: 160px;
+                      top: 240px;
                     }
                   }
                   .chess-move-10 .to {
@@ -879,13 +879,13 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-11">
-                        <div class="from" style="left: 160px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 160px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 160px; top: 0px;">♚</div>
+                        <div class="to" style="left: 160px; top: 0px;">♚</div>
                         <style>@keyframes chess-move-11-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-11 .from {
@@ -903,8 +903,8 @@
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 160px;
-                      top: 80px;
+                      left: 240px;
+                      top: 0px;
                     }
                   }
                   .chess-move-11 .to {
@@ -913,13 +913,13 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-12">
-                        <div class="from" style="left: 240px; top: 240px;">♙</div>
-                        <div class="to" style="left: 240px; top: 240px;">♙</div>
+                        <div class="from" style="left: 160px; top: 280px;">♔</div>
+                        <div class="to" style="left: 160px; top: 280px;">♔</div>
                         <style>@keyframes chess-move-12-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-12 .from {
@@ -936,9 +936,9 @@
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                       left: 240px;
-                      top: 160px;
+                      top: 280px;
                     }
                   }
                   .chess-move-12 .to {
@@ -947,8 +947,8 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-13">
-                        <div class="from" style="left: 200px; top: 120px;">♝</div>
-                        <div class="to" style="left: 200px; top: 120px;">♝</div>
+                        <div class="from" style="left: 240px; top: 160px;">♝</div>
+                        <div class="to" style="left: 240px; top: 160px;">♝</div>
                         <style>@keyframes chess-move-13-from {
                     100% {
                       opacity: 1;
@@ -971,8 +971,8 @@
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 160px;
-                      top: 160px;
+                      left: 200px;
+                      top: 200px;
                     }
                   }
                   .chess-move-13 .to {
@@ -981,8 +981,8 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-14">
-                        <div class="from" style="left: 40px; top: 120px;">♗</div>
-                        <div class="to" style="left: 40px; top: 120px;">♗</div>
+                        <div class="from" style="left: 160px; top: 240px;">♗</div>
+                        <div class="to" style="left: 160px; top: 240px;">♗</div>
                         <style>@keyframes chess-move-14-from {
                     100% {
                       opacity: 1;
@@ -1005,8 +1005,8 @@
                     100% {
                       opacity: 1;
                       background-color: #ECDAB9;
-                      left: 80px;
-                      top: 80px;
+                      left: 200px;
+                      top: 200px;
                     }
                   }
                   .chess-move-14 .to {
@@ -1015,13 +1015,13 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-15">
-                        <div class="from" style="left: 40px; top: 40px;">♟︎</div>
-                        <div class="to" style="left: 40px; top: 40px;">♟︎</div>
+                        <div class="from" style="left: 40px; top: 0px;">♞</div>
+                        <div class="to" style="left: 40px; top: 0px;">♞</div>
                         <style>@keyframes chess-move-15-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-15 .from {
@@ -1049,8 +1049,8 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-16">
-                        <div class="from" style="left: 200px; top: 200px;">♕</div>
-                        <div class="to" style="left: 200px; top: 200px;">♕</div>
+                        <div class="from" style="left: 240px; top: 240px;">♙</div>
+                        <div class="to" style="left: 240px; top: 240px;">♙</div>
                         <style>@keyframes chess-move-16-from {
                     100% {
                       opacity: 1;
@@ -1072,9 +1072,9 @@
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 160px;
-                      top: 200px;
+                      background-color: #ECDAB9;
+                      left: 240px;
+                      top: 160px;
                     }
                   }
                   .chess-move-16 .to {
@@ -1083,8 +1083,8 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-17">
-                        <div class="from" style="left: 160px; top: 160px;">♝</div>
-                        <div class="to" style="left: 160px; top: 160px;">♝</div>
+                        <div class="from" style="left: 280px; top: 40px;">♟︎</div>
+                        <div class="to" style="left: 280px; top: 40px;">♟︎</div>
                         <style>@keyframes chess-move-17-from {
                     100% {
                       opacity: 1;
@@ -1106,9 +1106,9 @@
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                       left: 280px;
-                      top: 280px;
+                      top: 80px;
                     }
                   }
                   .chess-move-17 .to {
@@ -1117,8 +1117,8 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-18">
-                        <div class="from" style="left: 120px; top: 160px;">♙</div>
-                        <div class="to" style="left: 120px; top: 160px;">♙</div>
+                        <div class="from" style="left: 200px; top: 160px;">♙</div>
+                        <div class="to" style="left: 200px; top: 160px;">♙</div>
                         <style>@keyframes chess-move-18-from {
                     100% {
                       opacity: 1;
@@ -1140,8 +1140,8 @@
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 80px;
+                      background-color: #ECDAB9;
+                      left: 200px;
                       top: 120px;
                     }
                   }
@@ -1151,13 +1151,13 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-19">
-                        <div class="from" style="left: 240px; top: 0px;">♞</div>
-                        <div class="to" style="left: 240px; top: 0px;">♞</div>
+                        <div class="from" style="left: 200px; top: 80px;">♞</div>
+                        <div class="to" style="left: 200px; top: 80px;">♞</div>
                         <style>@keyframes chess-move-19-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                     }
                   }
                   .chess-move-19 .from {
@@ -1174,9 +1174,9 @@
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                       left: 280px;
-                      top: 80px;
+                      top: 40px;
                     }
                   }
                   .chess-move-19 .to {
@@ -1185,13 +1185,13 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-20">
-                        <div class="from" style="left: 200px; top: 240px;">♙</div>
-                        <div class="to" style="left: 200px; top: 240px;">♙</div>
+                        <div class="from" style="left: 200px; top: 280px;">♖</div>
+                        <div class="to" style="left: 200px; top: 280px;">♖</div>
                         <style>@keyframes chess-move-20-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-20 .from {
@@ -1208,9 +1208,9 @@
                     }
                     100% {
                       opacity: 1;
-                      background-color: #ECDAB9;
+                      background-color: #C5A076;
                       left: 200px;
-                      top: 200px;
+                      top: 240px;
                     }
                   }
                   .chess-move-20 .to {
@@ -1219,13 +1219,13 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-21">
-                        <div class="from" style="left: 120px; top: 0px;">♛</div>
-                        <div class="to" style="left: 120px; top: 0px;">♛</div>
+                        <div class="from" style="left: 280px; top: 40px;">♞</div>
+                        <div class="to" style="left: 280px; top: 40px;">♞</div>
                         <style>@keyframes chess-move-21-from {
                     100% {
                       opacity: 1;
                       color: transparent;
-                      background-color: #C5A076;
+                      background-color: #ECDAB9;
                     }
                   }
                   .chess-move-21 .from {
@@ -1243,8 +1243,8 @@
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 280px;
-                      top: 160px;
+                      left: 240px;
+                      top: 120px;
                     }
                   }
                   .chess-move-21 .to {
@@ -1253,8 +1253,8 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-22">
-                        <div class="from" style="left: 160px; top: 200px;">♕</div>
-                        <div class="to" style="left: 160px; top: 200px;">♕</div>
+                        <div class="from" style="left: 280px; top: 240px;">♙</div>
+                        <div class="to" style="left: 280px; top: 240px;">♙</div>
                         <style>@keyframes chess-move-22-from {
                     100% {
                       opacity: 1;
@@ -1277,8 +1277,8 @@
                     100% {
                       opacity: 1;
                       background-color: #C5A076;
-                      left: 200px;
-                      top: 240px;
+                      left: 280px;
+                      top: 160px;
                     }
                   }
                   .chess-move-22 .to {
@@ -1287,8 +1287,8 @@
                   }</style>
                     </div>
                     <div class="chess-move chess-move-23">
-                        <div class="from" style="left: 280px; top: 160px;">♛</div>
-                        <div class="to" style="left: 280px; top: 160px;">♛</div>
+                        <div class="from" style="left: 240px; top: 120px;">♞</div>
+                        <div class="to" style="left: 240px; top: 120px;">♞</div>
                         <style>@keyframes chess-move-23-from {
                     100% {
                       opacity: 1;
@@ -1310,116 +1310,14 @@
                     }
                     100% {
                       opacity: 1;
-                      background-color: #C5A076;
-                      left: 200px;
-                      top: 240px;
+                      background-color: #ECDAB9;
+                      left: 280px;
+                      top: 200px;
                     }
                   }
                   .chess-move-23 .to {
                     animation-name: chess-move-23-to;
                     animation-delay: 16.799999999999997s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-24">
-                        <div class="from" style="left: 160px; top: 280px;">♔</div>
-                        <div class="to" style="left: 160px; top: 280px;">♔</div>
-                        <style>@keyframes chess-move-24-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-24 .from {
-                    animation-name: chess-move-24-from;
-                    animation-delay: 17.4s;
-                  }
-
-                  @keyframes chess-move-24-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 200px;
-                      top: 240px;
-                    }
-                  }
-                  .chess-move-24 .to {
-                    animation-name: chess-move-24-to;
-                    animation-delay: 17.4s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-25">
-                        <div class="from" style="left: 200px; top: 0px;">♝</div>
-                        <div class="to" style="left: 200px; top: 0px;">♝</div>
-                        <style>@keyframes chess-move-25-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-25 .from {
-                    animation-name: chess-move-25-from;
-                    animation-delay: 18s;
-                  }
-
-                  @keyframes chess-move-25-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #C5A076;
-                      left: 80px;
-                      top: 120px;
-                    }
-                  }
-                  .chess-move-25 .to {
-                    animation-name: chess-move-25-to;
-                    animation-delay: 18s;
-                  }</style>
-                    </div>
-                    <div class="chess-move chess-move-26">
-                        <div class="from" style="left: 200px; top: 240px;">♔</div>
-                        <div class="to" style="left: 200px; top: 240px;">♔</div>
-                        <style>@keyframes chess-move-26-from {
-                    100% {
-                      opacity: 1;
-                      color: transparent;
-                      background-color: #C5A076;
-                    }
-                  }
-                  .chess-move-26 .from {
-                    animation-name: chess-move-26-from;
-                    animation-delay: 18.6s;
-                  }
-
-                  @keyframes chess-move-26-to {
-                    1% {
-                      opacity: 1;
-                    }
-                    99% {
-                      background-color: transparent;
-                    }
-                    100% {
-                      opacity: 1;
-                      background-color: #ECDAB9;
-                      left: 200px;
-                      top: 280px;
-                    }
-                  }
-                  .chess-move-26 .to {
-                    animation-name: chess-move-26-to;
-                    animation-delay: 18.6s;
                   }</style>
                     </div>
                     <style>.chess-board {
@@ -1453,7 +1351,7 @@
               animation-fill-mode: forwards;
               animation-name: chess-clock;
               animation-delay: 3s;
-              animation-duration: 16.2s;
+              animation-duration: 14.399999999999999s;
               animation-timing-function: linear;
             }
             @keyframes chess-clock {
@@ -1489,7 +1387,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Oct 2024, 16:15:56 (timezone America/Bogota) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Oct 2024, 17:17:02 (timezone America/Bogota) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
